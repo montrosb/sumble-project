@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sumble-project/static/css/main.92c8d4eb.css",
+    "main.js": "/sumble-project/static/js/main.eb805abc.js",
+    "static/js/453.a42ca48d.chunk.js": "/sumble-project/static/js/453.a42ca48d.chunk.js",
+    "index.html": "/sumble-project/index.html",
+    "main.92c8d4eb.css.map": "/sumble-project/static/css/main.92c8d4eb.css.map",
+    "main.eb805abc.js.map": "/sumble-project/static/js/main.eb805abc.js.map",
+    "453.a42ca48d.chunk.js.map": "/sumble-project/static/js/453.a42ca48d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c8d4eb.css",
+    "static/js/main.eb805abc.js"
+  ]
+}
